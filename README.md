@@ -22,7 +22,7 @@
    - Общая схема kernel‑методов, kernel PCA и выбор ядра.[9]
    - Сравнение с классическим PCA, плюсы и минусы, вычислительная сложность и регуляризация.[5][9]
 
-4. **Манifold learning: MDS, Isomap, LLE, Laplacian Eigenmaps**  
+4. **Manifold learning: MDS, Isomap, LLE, Laplacian Eigenmaps**  
    - Классическая MDS, геодезические расстояния и идея Isomap.[10][6]
    - LLE, Laplacian Eigenmaps: графы соседства, локальная структура, спектральное разложение.[11][7]
 
